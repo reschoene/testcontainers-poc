@@ -1,0 +1,6 @@
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/service/PersonService.java
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/controller/PersonController.java
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/repository/PersonRepository.java
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/dto/PersonDto.java
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/entity/Person.java
+/mnt/dados/Desenv/testcontainers-poc/src/main/java/br/com/reschoene/poc/testcontainers/TestcontainersApplication.java

@@ -1,0 +1,6 @@
+br/com/reschoene/poc/testcontainers/entity/Person.class
+br/com/reschoene/poc/testcontainers/service/PersonService.class
+br/com/reschoene/poc/testcontainers/TestcontainersApplication.class
+br/com/reschoene/poc/testcontainers/controller/PersonController.class
+br/com/reschoene/poc/testcontainers/repository/PersonRepository.class
+br/com/reschoene/poc/testcontainers/dto/PersonDto.class
